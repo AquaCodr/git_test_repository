@@ -1,5 +1,5 @@
 #忽略 .gitignore 自己
 .gitignore
 
-#忽略所用 .exe 文件
+#忽略所有 .exe 文件
 *.exe
