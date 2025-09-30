@@ -1,3 +1,7 @@
 the first 
 add the third row
+<<<<<<< HEAD
 on main
+=======
+on develop
+>>>>>>> develop
